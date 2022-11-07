@@ -22,7 +22,7 @@ Kuaipedia: a Large-scale Multi-modal Short-video Encyclopedia [[Manuscript]](htt
 The data or code of Kuaipedia will be coming soon.
 
 ## News
-* 业界首个！快手提出亿级别多模态短视频百科体系快知 (The first! Kuaishou proposed a large-scale multi-modal short-video encyclopedia "Kuaipeida") [[机器之心]](https://mp.weixin.qq.com/s/_ngcmULg9-FwZER-Jlljvg) [[知乎]](https://zhuanlan.zhihu.com/p/580890046) [[51CTO]](https://www.51cto.com/article/722206.html) [[IT之家]](https://www.ithome.com/0/651/810.htm)
+* 2022.11 业界首个！快手提出亿级别多模态短视频百科体系快知 (The first! Kuaishou proposed a large-scale multi-modal short-video encyclopedia "Kuaipeida") [[机器之心]](https://mp.weixin.qq.com/s/_ngcmULg9-FwZER-Jlljvg) [[知乎]](https://zhuanlan.zhihu.com/p/580890046) [[51CTO]](https://www.51cto.com/article/722206.html) [[IT之家]](https://www.ithome.com/0/651/810.htm)
 
 ## Reference
 ```
