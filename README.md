@@ -17,9 +17,12 @@
 
 Please refer to the paper for more details.
 
-Kuaipedia: a Large-scale Multi-modal Short-video Encyclopedia [[Manuscript](https://arxiv.org/abs/2211.00732)]
+Kuaipedia: a Large-scale Multi-modal Short-video Encyclopedia [[Manuscript]](https://arxiv.org/abs/2211.00732)
 
-The resources or codes of Kuaipedia will be coming soon.
+The data or code of Kuaipedia will be coming soon.
+
+## News
+* 业界首个！快手提出亿级别多模态短视频百科体系快知 (The first! Kuaishou proposed a large-scale multi-modal short-video encyclopedia "Kuaipeida") [[机器之心]](https://mp.weixin.qq.com/s/_ngcmULg9-FwZER-Jlljvg) [[知乎]](https://zhuanlan.zhihu.com/p/580890046) [[51CTO]](https://www.51cto.com/article/722206.html) [[IT之家]](https://www.ithome.com/0/651/810.htm)
 
 ## Reference
 ```
@@ -43,7 +46,7 @@ The resources or codes of Kuaipedia will be coming soon.
 
 ## Acknowledgment
 
-Except for the contributers to the paper. We also appreciate efforts and helps from Jingrun Zhang, Yuelei Li, Lijun Mei, Chunguang Pan, Xing Hu, Lingyu Zou, Yang Li, Dexing Yang, Wenzheng Zhao, Guixin Qiu, Lin Yang, Meijuan Yang and others who contributes to this project.
+Except for the contributers to the paper. We also appreciate efforts and helps from Jingrun Zhang, Yuelei Li, Lijun Mei, Chunguang Pan, Xing Hu, Lingyu Zou, Yang Li, Dexing Yang, Wenzheng Zhao, Guixin Qiu, Lin Yang, Meijuan Yang, Teng Tu and others who contributes to this project.
 
 ## Contact Us
 
