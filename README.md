@@ -1,5 +1,5 @@
 <p align="center">
-<img width="150px" src="./images/logo.jpeg"/>
+<img width="256px" src="./images/logo.jpeg"/>
 </p>
 
 <hr/>
@@ -22,7 +22,7 @@ Kuaipedia: a Large-scale Multi-modal Short-video Encyclopedia [[Manuscript]](htt
 The data or code of Kuaipedia will be coming soon.
 
 ## News
-* 2022.11 - 业界首个！快手提出亿级别多模态短视频百科体系快知 (The first! Kuaishou proposed a large-scale multi-modal short-video encyclopedia "Kuaipeida") [[机器之心]](https://mp.weixin.qq.com/s/_ngcmULg9-FwZER-Jlljvg)[[澎湃]](https://www.thepaper.cn/newsDetail_forward_20618591) [[知乎]](https://zhuanlan.zhihu.com/p/580890046) [[51CTO]](https://www.51cto.com/article/722206.html) [[IT之家]](https://www.ithome.com/0/651/810.htm)
+* 2022.11 - 业界首个！快手提出亿级别多模态短视频百科体系快知 (The first! Kuaishou proposed a large-scale multi-modal short-video encyclopedia "Kuaipeida") [[机器之心]](https://mp.weixin.qq.com/s/_ngcmULg9-FwZER-Jlljvg)[[澎湃]](https://www.thepaper.cn/newsDetail_forward_20618591) [[知乎]](https://zhuanlan.zhihu.com/p/580890046) [[CSDN]](https://www.csdn.net/article/2022-11-07/127733976)[[51CTO]](https://www.51cto.com/article/722206.html) [[IT之家]](https://www.ithome.com/0/651/810.htm)
 * 2022.08 - Obtain **"Outstanding Project Award"** in Kuaishou AI Day. 
 
 ## Reference
