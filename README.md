@@ -47,7 +47,7 @@ The data or code of Kuaipedia will be coming soon.
 
 ## Acknowledgment
 
-Except for the contributers to the paper. We also appreciate efforts and helps from Jingrun Zhang, Yuelei Li, Lijun Mei, Chunguang Pan, Xing Hu, Lingyu Zou, Yang Li, Dexing Yang, Wenzheng Zhao, Guixin Qiu, Lin Yang, Meijuan Yang, Teng Tu and others who contributes to this project.
+Except for the contributers to the paper. We also appreciate efforts and helps from Jingrun Zhang, Yuelei Li, Lijun Mei, Chunguang Pan, Xing Hu, Lingyu Zou, Yang Li, Dexing Yang, Wenzheng Zhao, Guixin Qiu, Lin Yang, Meijuan Yang, Teng Tu, Xinyi Zheng, Yunhui Guo and others who contributes to this project.
 
 ## Contact Us
 
