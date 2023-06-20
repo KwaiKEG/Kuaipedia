@@ -26,7 +26,7 @@ If you're experiencing any issues with downloading the data file, please don't h
 | Field           | Description                                    | Example         |
 |-----------------|------------------------------------------------|-------------------------------------------------------------------|  
 | title | the title of the item |	玫瑰 |
-| ubtitle | the subtitle/navigation of the item | 蔷薇科蔷薇属多种花卉通称 |
+| subtitle | the subtitle/navigation of the item | 蔷薇科蔷薇属多种花卉通称 |
 | synonyms | title synonyms | 野玫瑰/玫 瑰/玫瑰/玫瑰花 |
 | baike_url | link to baidubaike | https://baike.baidu.com/item/%E7%8E%AB%E7%91%B0/63206 |
 | wiki_url | link to wikipedia | https://zh.wikipedia.org/wiki/%E7%8E%AB%E7%91%B0 |
