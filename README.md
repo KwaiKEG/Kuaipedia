@@ -19,11 +19,42 @@ Please refer to the paper for more details.
 
 Kuaipedia: a Large-scale Multi-modal Short-video Encyclopedia [[Manuscript]](https://arxiv.org/abs/2211.00732)
 
-The data or code of Kuaipedia will be coming soon.
 
 ## News
+* 2023.06 - Release a subset of [[data]](#data)
 * 2022.11 - 业界首个！快手提出亿级别多模态短视频百科体系快知 (The first! Kuaishou proposed a large-scale multi-modal short-video encyclopedia "Kuaipeida") [[机器之心]](https://mp.weixin.qq.com/s/_ngcmULg9-FwZER-Jlljvg)[[澎湃]](https://www.thepaper.cn/newsDetail_forward_20618591) [[知乎]](https://zhuanlan.zhihu.com/p/580890046) [[CSDN]](https://www.csdn.net/article/2022-11-07/127733976)[[51CTO]](https://www.51cto.com/article/722206.html) [[IT之家]](https://www.ithome.com/0/651/810.htm)
 * 2022.08 - Obtain **"Outstanding Project Award"** in Kuaishou AI Day. 
+
+## Data
+
+We are excited to release a subset of Kuaipedia, featuring the most popular wiki entries for enhanced research opportunities. Along with this, we've also shared our experimental findings. Sample files can be located in the `./data` folder, accompanied by a `README.md` file to clarify each field.
+
+To download the full subset and experimental results of Kuaipedia, please use the following link: 
+
+> link: https://pan.baidu.com/s/1yUB97aL2rBVt-Q0c6sYIcw code: kwyw
+
+If you're experiencing any issues with downloading the data file, please don't hesitate to reach out to myscarletpan@gmail.com for assistance.
+
+**Statistics**
+
+|            | Full Dump       | Subset Dump |
+|------------|-----------------|-------------|
+| #Items     | > 26 million    | 51,702      |
+| #Aspects   | > 2.5 million   | 1,074,539   |
+| #Videos    | > 200 million   | 769,096     |
+
+The comparative results with the baseline models are as follows:
+ 
+|  Model   | Item P  | Item R | Item-Aspect P | Item-Aspect R | 
+|  ----  | ----  |  ----  |  ----  |  ----  | 
+| Random  | 87.7 | 49.8 | 36.4 | 49.6 | 
+| LR  | 90.4 | 68.3 | 55.1 | 2.7 | 
+| T5-small  | 93.7 | 76.1 | 79.3 | 58.5 | 
+| BERT-base  | 94.3 | 77.8 | 81.5 | 62.7 | 
+| GPT-3.5  | 90.5 | 86.4 | 41.8 | 95.7 | 
+| Ours  | 94.7 | 79.7 | 83.0 | 65.7 | 
+
+Feel free to explore and utilize this valuable dataset for your research and projects.
 
 ## Reference
 ```
@@ -51,5 +82,5 @@ Except for the contributers to the paper. We also appreciate efforts and helps f
 
 ## Contact Us
 
-If you are insterested in Kuaipedia and more cases, please contact us by e-mail panhaojie@kuaishou.com
+If you are insterested in Kuaipedia and more cases, please contact us by e-mail myscarletpan@gmail.com
 
