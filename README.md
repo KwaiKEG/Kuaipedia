@@ -2,9 +2,12 @@
 <img width="256px" src="./images/logo.jpeg"/>
 </p>
 
+<p align="center">
+🤗 <a href="https://huggingface.co/datasets/kwaikeg/kuaipedia" target="_blank">Dataset</a> • 📃 <a href="https://arxiv.org/abs/2211.00732" target="_blank">Paper</a>
+</p>
 <hr/>
 
-**Kuaipedia** is developed by [Kuaishou Technology](https://www.kuaishou.com/en), collaborating with HIT and HKUST. It is the world's first large-scale multi-modal short-video encyclopedia where the primitive units are items, aspects, and short videos. 
+**Kuaipedia** is developed by Knowledge Engineering Group in Kuaishou [(KwaiKEG)](https://github.com/KwaiKEG), collaborating with HIT and HKUST. It is the world's first large-scale multi-modal short-video encyclopedia where the primitive units are items, aspects, and short videos. 
 
 ![demo](./images/demo-case.gif)
 
@@ -29,7 +32,7 @@ Kuaipedia: a Large-scale Multi-modal Short-video Encyclopedia [[Manuscript]](htt
 
 We are excited to release a subset of Kuaipedia, featuring the most popular wiki entries for enhanced research opportunities. Along with this, we've also shared our experimental findings. Sample files can be located in the `./data` folder, accompanied by a `README.md` file to clarify each field.
 
-To download the full subset and experimental results of Kuaipedia, please use the following link: 
+To download the full subset and experimental results of Kuaipedia, please go ahead to [huggingface/dataset/kuaipedia](https://huggingface.co/datasets/kwaikeg/kuaipedia), or use the following link: 
 
 > link: https://pan.baidu.com/s/1yUB97aL2rBVt-Q0c6sYIcw code: kwyw
 
