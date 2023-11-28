@@ -36,6 +36,8 @@ To download the full subset and experimental results of Kuaipedia, please go ahe
 
 > link: https://pan.baidu.com/s/1yUB97aL2rBVt-Q0c6sYIcw code: kwyw
 
+The raw video can be found by concatenating `video_id` with the prefix `kuaishou.com/short-video`.  E.g. [kuaishou.com/short-video/3xwwuqndapzs6nu](https://www.kuaishou.com/short-video/3xwwuqndapzs6nu).
+
 If you're experiencing any issues with downloading the data file, please don't hesitate to reach out to myscarletpan@gmail.com for assistance.
 
 **Statistics**
